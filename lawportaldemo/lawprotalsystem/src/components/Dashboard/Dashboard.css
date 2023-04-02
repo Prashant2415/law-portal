@@ -1,0 +1,71 @@
+.chatbot{
+    text-align: center;
+    padding: 70px;
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    overflow-x:hidden;
+    z-index: 1;
+    top: 0;
+}
+.split{
+    text-align: center;
+    padding: 70px;
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    overflow-x: hidden;
+}
+.left{
+    left: 0;
+    margin-top: 20px;
+}
+.right{
+    right: 0;
+    margin-top: 20px;
+}
+.cb{
+    text-align: -webkit-center;
+}
+.bts{
+    margin-left: 228px;
+    margin-top: 28px;
+}
+
+.t{
+    margin-left: 210px;
+}
+.tt{
+    margin-top: 70px;
+}
+.cardss{
+    height: 50%;
+    width: 40%;
+    margin-left: 40px;
+    display: inline-block;
+}
+.btnm{
+    margin-left: 5px;
+}
+
+.const{
+    
+    background-image: url("../images/3.png");
+    background-size: cover;
+    position: relative;
+}
+.gg{
+    margin-top: 10px;
+}
+.ccc{
+    display: inline-grid;
+    width: 60%;
+    text-align: initial;
+}
+.inmiddle{
+    margin-top: 10%;
+    font-size: 50px;
+}
+.hr{
+    border-style: solid;
+}

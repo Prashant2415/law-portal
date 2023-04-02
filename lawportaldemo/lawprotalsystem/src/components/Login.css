@@ -1,0 +1,12 @@
+.container{
+    width: 1100px;
+    height: 600px;
+    background-image: url("./images/1.jpg");
+    background-size: cover;
+    position: relative;
+}
+.log{
+    float: left;
+    margin-left: 300px;
+    font-size: 30px;
+}
